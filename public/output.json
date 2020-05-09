@@ -1,0 +1,19 @@
+[
+  {
+    "outputType": {
+      "type": "APK"
+    },
+    "apkData": {
+      "type": "MAIN",
+      "splits": [],
+      "versionCode": 1,
+      "versionName": "1.1",
+      "enabled": true,
+      "outputFile": "app-local-debug.apk",
+      "fullName": "localDebug",
+      "baseName": "local-debug"
+    },
+    "path": "app-local-debug.apk",
+    "properties": {}
+  }
+]
